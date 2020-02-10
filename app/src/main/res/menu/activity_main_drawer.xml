@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+
+>
+
+    <group android:checkableBehavior="single"
+
+        >
+        <item
+            android:id="@+id/sportpesa"
+            android:icon="@drawable/sportpesalogo"
+            android:title="Sportpesa.co.ke" />
+        <item
+            android:id="@+id/betway"
+            android:icon="@drawable/betway"
+            android:title="Betway.co.ke" />
+        <item
+            android:id="@+id/naira"
+            android:icon="@drawable/nairalogo"
+            android:title="Nairabet.com" />
+        <item
+            android:id="@+id/bet365"
+            android:icon="@drawable/bet365"
+            android:title="Bet365.co.Ke" />
+        <item
+            android:id="@+id/lolly"
+            android:icon="@drawable/lolly"
+            android:title="Lollybet.co.ke" />
+        <item
+            android:id="@+id/nijaa"
+            android:icon="@drawable/bet9ja"
+            android:title="Bet9ja.com" />
+        <item
+                android:id="@+id/betin"
+                android:icon="@drawable/bettin"
+                android:title="Betin.co.ke" />
+        <item
+                android:id="@+id/xbet"
+                android:icon="@drawable/ixlogo"
+                android:title="1Xbet.co.ke" />
+   </group>
+
+</menu>
